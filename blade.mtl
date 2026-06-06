@@ -1,31 +1,9 @@
 # Blender 5.0.1 MTL File: 'blade.blend'
 # www.blender.org
 
-newmtl Meshpart1Mtl.004
+newmtl Meshpart1Mtl.006
 Ka 1.000000 1.000000 1.000000
 Ks 0.500103 0.500103 0.500103
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-map_Kd C:/Users/lkoue/Downloads/Meshpart1_diff.png
-map_Ns C:/Users/lkoue/Downloads/Meshpart1_spec.png
-map_d C:/Users/lkoue/Downloads/Meshpart1_diff.png
-map_Bump C:/Users/lkoue/Downloads/Meshpart1_nmap.png
-
-newmtl Meshpart3Mtl.003
-Ka 1.000000 1.000000 1.000000
-Ks 0.002586 0.002586 0.002586
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-illum 2
-map_Kd C:/Users/lkoue/Downloads/Meshpart1_diff.png
-map_Ns C:/Users/lkoue/Downloads/Meshpart1_spec.png
-map_d C:/Users/lkoue/Downloads/Meshpart1_diff.png
-map_Bump C:/Users/lkoue/Downloads/Meshpart1_nmap.png
-
-newmtl Meshpart4Mtl.003
-Ka 1.000000 1.000000 1.000000
-Ks 0.397213 0.397213 0.397213
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
